@@ -7,7 +7,6 @@ from openpyxl import load_workbook
 from openpyxl.drawing.spreadsheet_drawing import OneCellAnchor
 from openpyxl.drawing.image import Image as XLImage
 from PIL import Image 
-import shutil
 from plotly.io import to_image
 import io
 from openpyxl import Workbook
